@@ -1,5 +1,8 @@
-brest
-minsk
-vitebsk
-gomel
-mogilev
+
+Brest
+Minsk
+Vitebsk
+
+Gomel
+Mogilev
+
